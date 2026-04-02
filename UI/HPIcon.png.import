@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwtotl6unjnpk"
-path="res://.godot/imported/NumberIcons.png-04a5102446fc5435f67c255199122add.ctex"
+uid="uid://cphox4i24gpwc"
+path="res://.godot/imported/HPIcon.png-64edbb5019358aa54351fa11fee0f256.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HauntedHotel/UI/NumberIcons.png"
-dest_files=["res://.godot/imported/NumberIcons.png-04a5102446fc5435f67c255199122add.ctex"]
+source_file="res://UI/HPIcon.png"
+dest_files=["res://.godot/imported/HPIcon.png-64edbb5019358aa54351fa11fee0f256.ctex"]
 
 [params]
 

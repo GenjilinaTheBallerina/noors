@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://db2coyu851cr0"
-path="res://.godot/imported/PSIcons.png-2af65a101b411079da8dec9d14e10c83.ctex"
+uid="uid://b73d3fdb3f4yo"
+path="res://.godot/imported/ElevatorIcons.png-13e6c3155346f00f78959e7847d62adc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HauntedHotel/UI/PSIcons.png"
-dest_files=["res://.godot/imported/PSIcons.png-2af65a101b411079da8dec9d14e10c83.ctex"]
+source_file="res://UI/ElevatorIcons.png"
+dest_files=["res://.godot/imported/ElevatorIcons.png-13e6c3155346f00f78959e7847d62adc.ctex"]
 
 [params]
 
